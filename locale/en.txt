@@ -1,0 +1,15 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_04EA209A_08A1_A38E_4199_84AE93528490.label = Pano 1
+panorama_024B1908_08A1_A28A_419E_C61429296C91.label = Pano 2
+panorama_02458980_08A2_627A_4198_3407F4177504.label = Pano 3
+
+## Tour
+
+### Description
+
+### Title
+tour.name = River Side Plot 
